@@ -10,7 +10,7 @@ int main()
 		int n;
 		cin>>n;
 		int seven= 0,four =0,flag = 0;
-	
+
 			if(n%4 == 0 && n%7 ==0)
 			{
 				four = n;
