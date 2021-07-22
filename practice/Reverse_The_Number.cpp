@@ -13,22 +13,16 @@ int32_t main()
     while (t--)
     {
         int a;
+        int b= 0;
         cin>>a;
-        if (a<10)
+        while (a>0)
         {
-            cout<<a<<endl;
+            b = b*10 + a%10;
+            a = a/10;
         }
-        else
-        {
-            int l, f;
-            l = a%10;
-            while(a>0)
-            {
-                f = a%10;
-                a = a/10;
-            }
-            cout<<l+f<<endl;
-        }
+        
+        cout<<b<<endl;
+        
     }
 
     return 0;
