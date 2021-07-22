@@ -1,5 +1,4 @@
 {
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "terminal.integrated.cwd": "${fileDirname}",
     "code-runner.runInTerminal": true,
     "C_Cpp.errorSquiggles": "Disabled"

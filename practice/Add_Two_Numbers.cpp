@@ -10,7 +10,12 @@ int32_t main()
     cin.tie(0);
     int t;
     cin>>t;
-    cout<<t<<endl;
+    while(t--)
+    {
+        int a,b;
+        cin>>a>>b;
+        cout<<a+b<<endl;
+    }
+
     return 0;
 }
-

@@ -10,7 +10,7 @@ int32_t main()
     cin.tie(0);
     int t;
     cin>>t;
-    cout<<t<<endl;
+    cout<<t*t<<endl;
+
     return 0;
 }
-
