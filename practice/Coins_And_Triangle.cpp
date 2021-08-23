@@ -14,14 +14,9 @@ int32_t main()
     {
         int n;
         cin>>n;
-        if(n== 2010 ||n== 2015 ||n== 2016 ||n== 2017 ||n== 2019 )
-        {
-            cout << "HOSTED"<<endl;
-        }
-        else
-        {
-            cout << "NOT HOSTED"<<endl;
-        }
+        int ans = (sqrt(8*n + 1) - 1)/2;
+        cout<<ans<<endl;
+
     }
 
     return 0;
