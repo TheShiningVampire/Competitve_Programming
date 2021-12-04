@@ -23,7 +23,7 @@ int main()
         // Sort the map  on the basis of the values
         int max = 0;
         int sum = 0;
-        for (auto i : dict)
+        // for (auto i : dict)
         {
             if (i.second > max)
             {
