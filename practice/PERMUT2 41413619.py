@@ -10,7 +10,6 @@ while (True):
         for i in range(len(a)):
             if (a[a[i]-1] != i+1):
                 flag = 1
-        
         if (flag == 0):
             print("ambiguous")
         else:
