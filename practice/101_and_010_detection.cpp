@@ -65,7 +65,6 @@ int main()
                  
             }
         }
-        
         if(found == 1)
             cout<<"Good"<<endl;
         else
