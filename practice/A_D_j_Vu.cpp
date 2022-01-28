@@ -25,7 +25,6 @@ int32_t main()
             }
 
         }
-
         if(flag == 1)
         {
             cout<<"YES"<<endl;
