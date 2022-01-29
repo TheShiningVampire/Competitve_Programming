@@ -17,8 +17,7 @@ int main() {
 	        
 	        if(ar[i]>=p){
 	            count ++;
-	        }
-	        
+	        }        
 	    }
 	    cout<<count<<endl;
 	}
