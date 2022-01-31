@@ -10,13 +10,10 @@ int32_t main()
     cin.tie(0);
 
     int t;
-    cin>>t;
+    cin >> t;
     while (t--)
     {
-        
     }
-    
-    
-    
+
     return 0;
 }
