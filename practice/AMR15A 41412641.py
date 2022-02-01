@@ -10,7 +10,6 @@ for i in a:
         e +=1
     else:
         o+=1
-
 if(e>o):
     print("READY FOR BATTLE")
 else:
