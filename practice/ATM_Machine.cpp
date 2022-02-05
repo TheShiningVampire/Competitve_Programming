@@ -10,30 +10,26 @@ int32_t main()
     cin.tie(0);
     int t;
     cin >> t;
-    while(t--)
+    while (t--)
     {
-        int n,k;
-        cin>>n>>k;
+        int n, k;
+        cin >> n >> k;
         while (n--)
         {
             int a;
-            cin>>a;
-            if (k-a>=0)
+            cin >> a;
+            if (k - a >= 0)
             {
-                cout<<"1";
-                k = k-a;
+                cout << "1";
+                k = k - a;
             }
-            else    
+            else
             {
-                cout<<"0";
+                cout << "0";
             }
         }
-        cout<<endl;
-    }   
-
+        cout << endl;
+    }
 
     return 0;
 }
-
-
-
