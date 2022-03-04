@@ -1,10 +1,4 @@
-/*
- * @lc app=leetcode id=9 lang=cpp
- *
- * [9] Palindrome Number
- */
 
-// @lc code=start
 class Solution {
 public:
     bool isPalindrome(int x) {
@@ -28,9 +22,6 @@ public:
         else
         {
             return false;
-        }
-        
+        }   
     }
 };
-// @lc code=end
-
