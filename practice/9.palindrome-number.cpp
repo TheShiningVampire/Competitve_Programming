@@ -28,8 +28,7 @@ public:
         else
         {
             return false;
-        }
-        
+        }   
     }
 };
 // @lc code=end
