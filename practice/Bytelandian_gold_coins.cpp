@@ -25,7 +25,6 @@ int getprofit(int n)
     
 }
 
-
 int32_t main()
 {
     ios::sync_with_stdio(0);
