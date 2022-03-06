@@ -12,7 +12,6 @@ int32_t main()
     cin>>l>>b;
     int area = l*b;
     int peri = 2*(l+b);
-
     if (area>peri) 
     {
         cout<<"Area"<<endl;
