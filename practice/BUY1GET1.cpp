@@ -21,8 +21,7 @@ int main() {
 	                count = 1;
 	                index = j;
 	            } 
-	        }
-	        
+	        }	        
 	        if(count == 0)
 	        {
 	            b.push_back(a[i]);
