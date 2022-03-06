@@ -13,7 +13,6 @@ int nCr(int n,int r)
     
 }
 
-
 int main() {
 	int t;
 	cin>>t;
