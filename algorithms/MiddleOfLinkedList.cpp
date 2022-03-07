@@ -7,8 +7,6 @@ ListNode* middleNode(ListNode* head) {
         temp1 = head;
         temp2 = head;
         
-        
-        
         while( temp2 != NULL )
         {
             if(temp2->next != NULL)
