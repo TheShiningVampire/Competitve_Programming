@@ -48,9 +48,7 @@ void insertToList(int x)
 }
 
 int main()
-{
-	
-	
+{	
 	int a[]={1,6,8,7,9,2,4,6,8,1,0,25};
 	head = NULL;
 	for(int i=0;i<12;i++)
