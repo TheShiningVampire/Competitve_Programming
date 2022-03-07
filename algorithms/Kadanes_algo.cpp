@@ -37,6 +37,5 @@ int32_t main()
     }
 
     cout<<max<<endl;
-
     return 0;
 }
