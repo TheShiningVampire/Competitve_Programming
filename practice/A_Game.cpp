@@ -35,7 +35,7 @@ cin>>a[i];
 
 
 
-            
+
             jump=0;h[1]=1;pos++;
             
             }
@@ -51,7 +51,5 @@ cin>>a[i];
    else{
        cout<<l-1<<endl;}
 }
-
-
-    return 0;
+   return 0;
 }
