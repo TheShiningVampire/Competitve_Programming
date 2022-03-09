@@ -30,12 +30,6 @@ cin>>a[i];
         if(a[i]==0){jump+=1;}
         else{jump+=1;
         if(jump==1){
-
-
-
-
-
-
             jump=0;h[1]=1;pos++;
             
             }
