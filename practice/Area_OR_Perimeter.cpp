@@ -27,6 +27,5 @@ int32_t main()
         cout<<"Eq"<<endl;
         cout<<peri<<endl;
     }
-
     return 0;
 }
