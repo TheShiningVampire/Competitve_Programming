@@ -15,10 +15,6 @@ cin>>t;while(t--){
     cin>>l;int a[l];
     for(int i=0;i<l;i++){
 cin>>a[i];
-
-
-
-
     }
     int h[120];
     for(int i=0;i<120;i++){
