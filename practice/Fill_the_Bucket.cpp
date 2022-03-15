@@ -16,5 +16,7 @@ int32_t main()
         cin>>a>>b;
         cout << a - b << endl;
     }
+
+    
     return 0;
 }
