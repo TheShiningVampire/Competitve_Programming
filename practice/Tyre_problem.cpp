@@ -17,5 +17,6 @@ int32_t main()
         cout<< 2*n + 4*m <<endl;
     }
 
+
     return 0;
 }
