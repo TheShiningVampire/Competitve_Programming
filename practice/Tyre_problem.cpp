@@ -16,6 +16,6 @@ int32_t main()
         cin>>n>>m;
         cout<< 2*n + 4*m <<endl;
     }
-
+    
     return 0;
 }
