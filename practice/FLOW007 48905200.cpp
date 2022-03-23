@@ -22,7 +22,6 @@ int32_t main()
         }
         
         cout<<b<<endl;
-        
     }
 
     return 0;
