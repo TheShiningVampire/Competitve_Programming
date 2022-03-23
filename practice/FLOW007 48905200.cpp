@@ -20,7 +20,6 @@ int32_t main()
             b = b*10 + a;
             a = a/10;
         }
-        
         cout<<b<<endl;
     }
 
