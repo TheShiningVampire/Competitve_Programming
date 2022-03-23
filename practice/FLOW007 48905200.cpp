@@ -17,7 +17,7 @@ int32_t main()
         cin>>a;
         while (a>0)
         {
-            b = b*10 + a;
+            b = b*10 + a;
             a = a/10;
         }
         
